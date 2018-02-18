@@ -1,7 +1,7 @@
 # 2D UFO
 
 
-![Scheme](/screenshots/ScreenShot2018-02-18at1.21.59PM.png)
+![Scheme](/screenshots/ScreenShot2018-02-18at4.08.30PM.png)
 
 
 Unity UFO game in 2D.
